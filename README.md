@@ -27,7 +27,7 @@ An end-to-end MLOps project demonstrating MLflow integration with AWS for model 
 - [Contributing](#-contributing) <!-- Animation on hover -->
 - [License](#-license) <!-- Animation on hover -->
 
-<style>
+<style> 
 /* Add smooth scrolling animation */
 html {
   scroll-behavior: smooth;
